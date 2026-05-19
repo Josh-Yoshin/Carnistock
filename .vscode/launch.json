@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MicroserviciosApplication",
+            "request": "launch",
+            "mainClass": "com.carniceria.MicroserviciosApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroserviciosApplication<com.carniceria-Microservicios>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.carniceria.MicroserviciosApplication",
+            "projectName": "com.carniceria-Microservicios",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
